@@ -1,0 +1,6 @@
+[submodule "software/acc_eval/lm_evaluation_harness"]
+	path = software/acc_eval/lm_evaluation_harness
+	url = https://github.com/kongtiaochengtailang/lm_evaluation_harness.git
+[submodule "software/acc_eval/transformers"]
+	path = software/acc_eval/transformers
+	url = https://github.com/kongtiaochengtailang/transformers.git
