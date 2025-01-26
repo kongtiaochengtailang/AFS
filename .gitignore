@@ -7,3 +7,9 @@ hs_err_pid*
 .idea/
 
 target/
+
+__pycache__/
+
+own_datasets/
+
+eval_results/

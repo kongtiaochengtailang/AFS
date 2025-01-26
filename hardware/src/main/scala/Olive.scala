@@ -8,6 +8,6 @@ object Olive {
 
 class Olive(cfg: Olive.Config) extends Component {
   val io = new Bundle {
-    
+
   }
 }
